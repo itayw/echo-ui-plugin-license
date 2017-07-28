@@ -1,0 +1,6 @@
+build/
+node_modules/
+target/
+wargames.private.json
+
+bower_components/
